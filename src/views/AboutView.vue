@@ -4,12 +4,28 @@
     initialOpacity: 0.5,
     easing: 'ease-in',
 }">
-<h1>I Enjoy Learning Python</h1>
-<p>Python Is Very Easy Programing Language You Can Make Games</p>
-<h1>I Want To Learn More About Backend</h1>
-<p>Backend With Nodejs , Expressjs</p>
-<h1>Nothing is difficult but I think maybe networks and protocol can be the most </h1>
-<p>The networks and protocols are more difficult, and when working in reality, prohibitions must be envisaged to put good protection.</p>
+<h4>Privacy Policy<br>Last Updated: 20/7/2024<br>Introduction<br>Welcome to Games El'layaly ("we", "our", "us"). We are committed to protecting your privacy. This Privacy Policy explains how your personal information is collected, used, and disclosed by [Your App Name].<br>Information We Collect
+We may collect the following types of information:<br>Personal Information: This includes your name, email address, and other information you provide when you sign up for our services.<br>Usage Data: Information about how you use our app, such as your gameplay data, preferences, and settings.<br>Device Information: Data about the device you use to access our app, including IP address, device type, and operating system.<br>How We Use Your Information<br>We use the information we collect to:<br><br>Provide, maintain, and improve our app and services.
+Personalize your experience.<br>Communicate with you, including sending updates and notifications.<br>Analyze usage patterns to enhance our app.<br>Sharing Your Information<br>We do not share your personal information with third parties except in the following circumstances:
+
+With your consent.
+For legal reasons, such as complying with laws or responding to lawful requests.
+With service providers who perform services on our behalf.
+Data Security
+We implement appropriate security measures to protect your personal information. However, no security system is impenetrable, and we cannot guarantee the absolute security of your data.
+
+Your Rights
+You have the right to access, update, or delete your personal information. You can exercise these rights by contacting us at [Your Contact Information].
+
+Changes to This Privacy Policy
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on our website.
+
+Contact Us
+If you have any questions about this Privacy Policy, please contact us at:
+
+El'layaly
+Email: saharellayaly95@gmail.com
+</h4>
   </main>
 </template>
 
@@ -21,11 +37,12 @@ main{
   min-height:100vh;
 }
 
-h1{
+h4{
   color:black;
   font-family: "Rubik", sans-serif;
   margin-left:50px;
   padding-top:100px;
+  width:80%;
 }
 
 p{
